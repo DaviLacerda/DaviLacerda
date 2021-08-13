@@ -7,3 +7,4 @@ Hello There,
 
 - I'm a Star Wars and E-sports fan
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviLacerda)](https://github.com/anuraghazra/github-readme-stats)
