@@ -23,5 +23,5 @@ Hello There,
   <img align="right" alt="Davi-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLacerda)](https://github.com/anuraghazra/github-readme-stats)
 
