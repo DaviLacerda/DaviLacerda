@@ -25,8 +25,6 @@ Hello There,
   ##
  
 <div> 
-  <a href="https://instagram.com/davitl_" target="_blank"><img src="https://image.flaticon.com/icons/png/512/733/733558.png" target="_blank" height=32px ></a>
-  <a href = "dlacerda9@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" target="_blank" height=32px></a>
   <a href="https://www.linkedin.com/in/davi-lacerda-8952421b7/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"
   target="_blank" height=32px></a> 
  
