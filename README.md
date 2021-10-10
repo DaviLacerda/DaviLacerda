@@ -1,6 +1,6 @@
 Hello There,
 
-- i'm Davi, a computer science student in Federal University of Uberlãndia(UFU)
+- i'm Davi, a computer science student in Federal University of Uberlândia(UFU)
 - I'm currently venturing into front-end to be the best dev in the entire galaxy ( and Outer Rim 🪐)
 
 - Always open to learn more 🤓
