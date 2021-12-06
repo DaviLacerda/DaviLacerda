@@ -1,3 +1,7 @@
+<div>
+    <img align="center" alt="Developer Coding Gif" src="#" height=256px width=100%>
+  </div>
+
 Hello There,
 
 - i'm Davi, a computer science student in Federal University of Uberlândia(UFU)
@@ -24,14 +28,13 @@ Hello There,
   
   ##
  
-<div> 
-  <a href="https://www.linkedin.com/in/davi-lacerda-8952421b7/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"
-  target="_blank" height=32px></a> 
+<div style="display: inline_block"><br> 
+  <a href="https://www.linkedin.com/in/davi16lacerda/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"
+  target="_blank" height=32px width=32px></a> 
+  <a href="https://www.instagram.com/davi.frontend/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
+  target="_blank" height=32px width=32px></a> 
  
 </div>
 
   ##
   
-  <div>
-    <img align="center" alt="Star Wars" src="https://c.tenor.com/nN_-M2QfN3sAAAAj/baby-yoda-star-wars.gif">
-  </div>
