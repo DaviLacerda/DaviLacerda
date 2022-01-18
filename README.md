@@ -40,13 +40,10 @@
 &nbsp;
 ## Stats
 
-[![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davilacerda&count_private=true&theme=tokyonight&hide=stars,prs&border_color=0f0f0f&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davilacerda&theme=tokyonight&border_color=0f0f0f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davilacerda&count_private=true&theme=tokyonight&hide=stars,prs&border_color=0f0f0f&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davilacerda&theme=tokyonight&border_color=0f0f0f&layout=compact)
 
 &nbsp;
 ## Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=disneyplus&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/disneyplus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=pokedex&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=ballerini_discord&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/ballerini_discord)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=portfolio&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/portfolio)
+
