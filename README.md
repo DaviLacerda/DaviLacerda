@@ -1,16 +1,52 @@
+
+# Hello There, I'm Davi! 👋
+&nbsp;
+
 <div>
-    <img align="center" alt="Developer Coding Gif" src="https://github.com/DaviLacerda/DaviLacerda/blob/main/ricky.gif" height=256px width=100%>
-  </div>
+    <img align="center" alt="Tony Stark in a Computer (Jarvis)" src="https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/44d27a9d46b35df3-7b/s500x750/fa0e3124b119e92be00c3a32835ff8925ed7e017.gifv" height=256px width=100%>
+</div>
 
-<h1 align="center">Hello There 👋 I'm Davi</h1>
-<h3 align="center">A computer science student in Federal University of Uberlândia(UFU), currently venturing into front-end to be the best dev in the entire galaxy ( and Outer Rim 🪐)</h3>
+&nbsp;
 
-<h3 align="left">Connect with me:</h3>
+## 🌪 About Me
+
+* 🧠 - Actually, learn more about Front-End and his techs.
+* 📙 - Computer Science Student in Federal University of Uberlândia (UFU).
+* 😍 - I love Star Wars Universe and Marvel.
+* 👨‍💻 - My first contact with programming was at the University, in March 2021.
+
+&nbsp;
+## Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/davi16lacerda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davi16lacerda" height="30" width="40" /></a>
-<a href="https://instagram.com/davi.frontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davi.frontend" height="30" width="40" /></a>
-<a href="https://discord.gg/dxvi#4854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dxvi#4854" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/davi16lacerda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davi16lacerda" height="56" width="56"/></a>
+    &nbsp;
+    <a href="https://instagram.com/davi.frontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davi.frontend" height="56" width="56"/></a>
+    &nbsp;
+    <a href="https://discord.gg/dxvi#4854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dxvi#4854" height="56" width="56"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+&nbsp;
+## Languages and Tools
+
+<p align="center"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b7611f5b78cee6d0974fcfc7c0c723b1c600346853961&rid=giphy.gif&ct=s" alt="html5" width="128" height="128"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="128" height="128"/> </a> 
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=790b761179b71102898d646d04e8de917c7cee968266ce9a&rid=giphy.gif&ct=s" alt="bootstrap" width="128" height="128"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622432919395/OStnZ-nKh.gif?auto=format,compress&gif-q=60&format=webm" alt="javascript" width="128" height="128"/> </a> 
+    <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="sass" width="128" height="128"/> </a> 
+</p>
+
+&nbsp;
+## Stats
+
+[![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davilacerda&count_private=true&theme=tokyonight&hide=stars,prs&border_color=0f0f0f&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davilacerda&theme=tokyonight&border_color=0f0f0f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+&nbsp;
+## Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=disneyplus&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/disneyplus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=pokedex&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=ballerini_discord&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/ballerini_discord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=portfolio&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/portfolio)
