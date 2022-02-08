@@ -49,4 +49,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=disneyplus&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/disneyplus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=pokedex&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/pokedex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=ballerini_discord&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/ballerini_discord)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=portfolio&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davilacerda&repo=my-portfolio&theme=tokyonight&border_color=0f0f0f)](https://github.com/davilacerda/my-portfolio)
