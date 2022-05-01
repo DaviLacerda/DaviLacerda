@@ -58,7 +58,7 @@
 ## Connect With Me
 
 <p align="left">
-    <a href="https://instagram.com/davi.frontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="56" width="56"/></a>
+    <a href="https://instagram.com/davi16lacerda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="56" width="56"/></a>
     &nbsp;
     <a href="https://api.whatsapp.com/send?phone=5534992750234&text=Ol%C3%A1%20Davi%2C%20tudo%20bem%3F" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="56" width="56"/></a>
     &nbsp;
@@ -66,7 +66,7 @@
     &nbsp;
     <a href="mailto:davi16lacerda@gmail.com?subject=Digite%20o%20assunto%20aqui" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="56" width="56"/></a>
     &nbsp;
-    <a href="https://discord.gg/dxvi#4854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="56" width="56"/></a>
+    <a href="https://discord.com/users/272922827118870541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="56" width="56"/></a>
 </p>
 
 &nbsp;
