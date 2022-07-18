@@ -6,8 +6,6 @@ Front-End Developer. Learning more about Next.js and accessibility in Web.
 
 Computer Science student at Federal University of Uberlândia (UFU). Living in Uberlândia, Minas Gerais in Brazil.
 
-&nbsp;
-
 ### Connect With Me
 
 <div>
