@@ -1,6 +1,5 @@
 
 # Hello There, I'm Davi! 👋
-&nbsp;
 
 Front-End Developer. Learning more about Next.js and accessibility in Web.
 
