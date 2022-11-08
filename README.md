@@ -19,8 +19,6 @@ Computer Science student at Federal University of Uberlândia (UFU). Living in U
     <a href="https://discord.com/users/272922827118870541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="36" width="36"/></a>
 </div>
 
-&nbsp;
-
 ### Languages and Tools
 
 <div> 
