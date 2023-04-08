@@ -1,9 +1,8 @@
 
 # Hello There, I'm Davi! 👋
 
-Front-End Developer. Learning more about Next.js and accessibility in Web.
-
-Computer Science student at Federal University of Uberlândia (UFU). Living in Uberlândia, Minas Gerais in Brazil.
+* Front-End Developer. Learning more about Next.js and accessibility in Web.
+* Currently undergraduate Computer Science student at Federal University of Uberlândia (UFU). Living in Uberlândia, Minas Gerais in Brazil.
 
 ### Connect With Me
 
